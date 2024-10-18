@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋 Hi, I’m @igriet<br>- 👀 I’m interested in .Net & Azure<br>- 🌱 I’m currently learning microservices and cloud<br>- 🔭I'm currently working on my own projects<br>- 🤝 I’m looking to collaborate on any project that uses Microsoft technologies<br>
+-👋 Hi, I’m @igriet<br>- 👀 I’m interested in Microsoft tech stack<br>- 🌱 I’m learning microservices and cloud<br>- 🔭I'm working on my own projects<br>- 🤝 I’m looking to collaborate on any project that uses Microsoft technologies<br>
 
 
 ## 🌐 Socials:
